@@ -4,6 +4,7 @@
 </div>
 
 # Table of Contents
-1.) ToDoApp - To Do Typescript/Vite Frontend Webapp (Webdev2) <br>
 
+1. ToDoApp - To Do Typescript/Vite Frontend Webapp (Webdev2) <br>
+2. ContactList - Simple Contact List Webapp (Webdev2) <br>
 ---
